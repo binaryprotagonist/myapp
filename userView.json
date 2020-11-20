@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "5fb624df0133e146ec22ccae"
+  },
+  "UserId": "5fb62d680133e146ec22ccb7",
+  "date": {
+    "$date": "2020-11-19T07:55:11.201Z"
+  },
+  "ProductId": "2"
+},{
+  "_id": {
+    "$oid": "5fb624e80133e146ec22ccaf"
+  },
+  "UserId": "5fb62d680133e146ec22ccb7",
+  "date": {
+    "$date": "2020-11-15T07:55:20.846Z"
+  },
+  "ProductId": "1"
+},{
+  "_id": {
+    "$oid": "5fb625310133e146ec22ccb0"
+  },
+  "UserId": "5fb62d680133e146ec22ccb7",
+  "date": {
+    "$date": "2020-11-18T07:56:33.855Z"
+  },
+  "ProductId": "1"
+},{
+  "_id": {
+    "$oid": "5fb630d90133e146ec22ccb8"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:17.077Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630db0133e146ec22ccb9"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:19.622Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630dd0133e146ec22ccba"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:21.178Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630de0133e146ec22ccbb"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:22.156Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630de0133e146ec22ccbc"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:22.742Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630df0133e146ec22ccbd"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:23.514Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630e00133e146ec22ccbe"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:24.129Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb630e00133e146ec22ccbf"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:24.992Z"
+  },
+  "ProductId": "3"
+},{
+  "_id": {
+    "$oid": "5fb63ed9e1b0d13d44054187"
+  },
+  "UserId": "5",
+  "date": {
+    "$date": "2020-11-19T08:46:24.992Z"
+  },
+  "ProductId": "3"
+}]
